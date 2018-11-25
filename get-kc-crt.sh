@@ -1,7 +1,7 @@
 #!/bin/bash
 username=admin
 password=password
-REALM=master
+REALM=myrealm
 
 # login and get a temporary access token 
 TOKEN=$(curl \
